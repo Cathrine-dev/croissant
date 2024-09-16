@@ -1,0 +1,19 @@
+body {
+    background-color: chocolate;
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+}
+a {
+    text-align: center;
+    display: block;
+}
+.croissant-summary {
+    text-align: center;
+}
+img {
+    text-align: center;
+    display: block;
+}
